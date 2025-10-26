@@ -1,7 +1,5 @@
 # Sorting Algorithms in C++
-## Name: Maitraiyee Vashistha
-## PRN: 24070123057
-## Division: ENTC-A3
+
 ## Title: Understanding Sorting in C++
 -----
 ## Aim
